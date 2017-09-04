@@ -1,9 +1,13 @@
+# /usr/bin/python3
 # _*_ coding:utf-8 _*_
 
 import urllib
 import urllib.request
 import urllib.error
 import re
+
+
+__author__ = 'Arvin.He'
 
 
 class Qsbk(object):
